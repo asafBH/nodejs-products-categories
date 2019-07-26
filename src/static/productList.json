@@ -1,0 +1,46 @@
+{
+    "Categories": [
+        {
+            "id": "1",
+            "name": "Phones",
+            "products": [
+                {
+                    "name": "Iphone X",
+                    "itemInStock": 3
+                },
+                {
+                    "name": "Iphone Xs",
+                    "itemInStock": 20
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Fruit",
+            "products": [
+                {
+                    "name": "Apple",
+                    "itemsInStock": 30
+                },
+                {
+                    "name": "Banana",
+                    "itemsInStock": 14
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Book",
+            "products": [
+                {
+                    "name": "Snow",
+                    "itemsInStock": 10
+                },
+                {
+                    "name": "de vinci code",
+                    "itemsInStock": 10
+                }
+            ]
+        }
+    ]
+}
